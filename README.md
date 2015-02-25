@@ -2,6 +2,7 @@
 
 
 Une courte présentation au sujet des coding dojo, d'où ils viennent et ce qu'ils sont.
+Elle est visible là : http://avernois.github.io/pres-codingdojo/.
 
 ## Katas
 1. kata-romannumerals.html : le Kata Roman Numerals du [KataCatalogue](http://codingdojo.org/cgi-bin/wiki.pl?KataRomanNumerals)
